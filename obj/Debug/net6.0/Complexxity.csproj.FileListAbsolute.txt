@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\bin\Debug\net6.0\Complexxity.exe
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\bin\Debug\net6.0\Complexxity.deps.json
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\bin\Debug\net6.0\Complexxity.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\bin\Debug\net6.0\Complexxity.dll
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\bin\Debug\net6.0\Complexxity.pdb
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\Complexxity.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\Complexxity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\Complexxity.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\Complexxity.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\Complexxity.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\Complexxity.dll
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\refint\Complexxity.dll
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\Complexxity.pdb
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\Complexxity.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\Complexxity\obj\Debug\net6.0\ref\Complexxity.dll
